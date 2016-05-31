@@ -1,3 +1,3 @@
 # hello-world
 First Step In GitHub
-Learning how to edit the source code on another branch, not on the master branch.
+Learning how to edit the source code in a branch off of master branch.
